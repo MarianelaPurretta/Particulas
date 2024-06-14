@@ -8,3 +8,4 @@
 <br></strong> Enlace para ejecucion del programa: https://marianelapurretta.github.io/Particulas/ </strong></br>
 <br><strong>
 Enlace de la wiki de JavaScript: https://github.com/MarianelaPurretta/Particulas.wiki.git</br><strong/>
+<br><stong> Wiki del codigo HTML: https://github.com/MarianelaPurretta/Particulas/wiki/HTML#c%C3%B3digo-html </strong></br>
